@@ -12,7 +12,7 @@ AI sleep enforcer plugin for [OpenClaw](https://openclaw.ai). Sends escalating m
 | L3 Annoying | +20 min | Multi-message spam, sleep facts |
 | L4 Mean | +30 min | Comedy roast, cutting humor |
 | L5 Nuclear (x4) | +40/45/50/55 min | ALL CAPS, fake threats, existential crisis |
-| L5 Midnight | 00:00 | Grand finale |
+| L5 ggs | ggs | Grand finale |
 
 Each level checks if you've confirmed sleep. If you argued back, it skips ahead to a harsher level.
 
