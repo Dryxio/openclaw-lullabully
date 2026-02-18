@@ -2,8 +2,6 @@
 
 AI sleep enforcer plugin for [OpenClaw](https://openclaw.ai). Sends escalating messages from gentle reminders to nuclear-level harassment until you actually go to bed.
 
-Lullabully is an angry teddy bear who cares too much.
-
 ## Escalation Ladder
 
 | Level | Timing | Vibe |
